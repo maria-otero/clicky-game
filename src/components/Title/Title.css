@@ -22,7 +22,7 @@ span {
 
 .jumbotron {
   background-color:whitesmoke;
-  box-shadow: 0px 11px 58px -16px rgba(0,0,0,0.75);
+  box-shadow: 0px 11px 58px -16px rgba(0, 0, 0, 0.614);
   border-radius: 0.6rem;
   width: 100%;
 }
