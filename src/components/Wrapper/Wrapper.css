@@ -1,0 +1,10 @@
+.wrapper {
+  padding-top: 50px;
+  height: 100%;
+  display: flex;
+  flex-flow: row wrap;
+  padding-right: 5%;
+  padding-left: 5%;
+  justify-content: space-around;
+  overflow: auto;
+}

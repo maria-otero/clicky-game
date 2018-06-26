@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "image": "./images/pic1.svg"
+  },
+  {
+    "id": 2,
+    "image": "./images/pic2.svg"
+  },
+  {
+    "id": 3,
+    "image": "./images/pic3.svg"
+  },
+  {
+    "id": 4,
+    "image": "./images/pic4.svg"
+  },
+  {
+    "id": 5,
+    "image": "./images/pic5.svg"
+  },
+  {
+    "id": 6,
+    "image": "./images/pic6.svg"
+  },
+  {
+    "id": 7,
+    "image": "./images/pic7.svg"
+  },
+  {
+    "id": 8,
+    "image": "./images/pic8.svg"
+  },
+  {
+    "id": 9,
+    "image": "./images/pic9.svg"
+  },
+  {
+    "id": 10,
+    "image": "./images/pic10.svg"
+  },
+  {
+    "id": 11,
+    "image": "./images/pic11.svg"
+  },
+  {
+    "id": 12,
+    "image": "./images/pic12.svg"
+  }
+]

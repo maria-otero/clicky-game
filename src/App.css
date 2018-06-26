@@ -1,0 +1,9 @@
+.title {
+  width: 100%;
+  text-align: center;
+  margin-bottom: 50px;
+  font-family: 'Shrikhand', cursive;
+}
+.container-fluid {
+  background-image: linear-gradient(120deg, #fdfbfb 0%, #ebedee 100%);
+}
